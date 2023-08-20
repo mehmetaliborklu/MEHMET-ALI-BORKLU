@@ -22,5 +22,6 @@ I am Mehmet Ali from Turkey, a software developer. I love learning new languages
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetalibörklü) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-ali-börklü-a4151020b/) 
+
 
